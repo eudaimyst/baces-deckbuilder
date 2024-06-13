@@ -1,0 +1,62 @@
+body {
+  color: #000;
+  font-style: bold;
+  background-color: #f8f8ff;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
+
+h1 {
+  color: #ff69b4;
+  font-family: cursive;
+}
+
+.buttonImg {
+  text-align: center;
+  color: red;
+  background-color: #333;
+  width: 64px;
+  height: 64px;
+}
+
+.img {
+  text-align: center;
+  color: red;
+  background-color: #000;
+}
+
+.unitButton {
+  color: #fff;
+  font-style: bold;
+  background-color: green;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Core, #cell1, #cell5 {
+  background-color: #ff0;
+}
+
+#cell2, #Foundry {
+  background-color: orange;
+}
+
+#cell6, #Starforge {
+  background-color: #7fffd4;
+}
+
+#cell3, #AdvFoundry {
+  background-color: red;
+}
+
+#cell7, #AdvStarforge {
+  background-color: violet;
+}
+
+#cell4 {
+  background-color: #ff4500;
+}
+
+#cell8 {
+  background-color: #8a2be2;
+}
+/*# sourceMappingURL=index.4d663569.css.map */
